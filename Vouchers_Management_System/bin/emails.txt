@@ -1,0 +1,6 @@
+5
+USER_1_MAIL;2;GiftVoucher;15.0
+USER_2_MAIL;1;LoyaltyVoucher;25.0
+USER_3_MAIL;3;GiftVoucher;40.0
+USER_4_MAIL;1;LoyaltyVoucher;20.0
+USER_1_MAIL;2;GiftVoucher;80.0
